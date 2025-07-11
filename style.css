@@ -1,0 +1,11 @@
+html {
+  font-family: sans-serif; background-color:light grey;
+}
+h1 {text-align: center; 
+color: SlateBlue;
+}
+.small-img {
+  width: 5000px;
+} 
+p {text-align: right;
+}
